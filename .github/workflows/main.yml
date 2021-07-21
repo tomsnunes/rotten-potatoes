@@ -38,6 +38,7 @@ jobs:
           tags: |
             fabricioveronez/rotten-potatoes:latest
             fabricioveronez/rotten-potatoes:${{ github.run_number }}
+            fabricioveronez/rotten-potatoes:v1
             
   #CD:
   #  runs-on: ubuntu-latest
